@@ -16,7 +16,7 @@ int main(int argc, char** argv)
     int number = 0;
     int sum = 0;
 
-    if (argc < 3)
+    if (argc < 3)       // 检测是否带有参数(2个以上),argc[1] = 程序所在路径的字符串
     {
         printf("请带参数至少两个以上!\n");
         return 0;
