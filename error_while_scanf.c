@@ -38,6 +38,7 @@
  *
  * 1.scanf("%*[^\n]%*c");
  * 2.setbuf(stdin,NULL);
+ * 3.fflush(stdin);
  *
  * 下面为正确例子：
  */
