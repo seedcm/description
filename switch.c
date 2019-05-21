@@ -1,3 +1,5 @@
+// switch.c -- 选择函数介绍
+
 #include <stdio.h>
 
 int main(void)

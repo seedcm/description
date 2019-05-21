@@ -1,4 +1,4 @@
-// 地址指针
+// address.c -- 地址指针介绍
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-// 多维数组
+// double_array.c -- 多维数组
 
 #include <stdio.h>
 

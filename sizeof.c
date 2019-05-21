@@ -1,4 +1,5 @@
 /* sizeof.c -- 计算数组实际值的个数
+ *
  * sizeof 运算符给出它的运算对象的大小（以字节为单位）
  * sizeof(array_name) 是整个数组的大小（以字节为单位。
  * sizeof(array_name[index]) 是数组中一个元素的大小（以字节为单位）。

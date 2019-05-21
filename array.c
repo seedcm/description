@@ -1,3 +1,5 @@
+// array.c -- 数组介绍 
+
 #include <stdio.h>
 #define DAYS 31
 #define MONTH 12

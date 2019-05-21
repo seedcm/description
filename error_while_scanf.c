@@ -1,4 +1,5 @@
-/* 解决while中scanf造成的无限循环
+/* error_while_scanf.c -- 解决while中scanf造成的无限循环
+ *  
  * 下面是个无限循环的例子
  * 
  * #include <stdio.h>
